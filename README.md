@@ -2,7 +2,7 @@
 
 **The Future of Freelancing: Where Web2 Meets Web3**
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/G43R8nnMTh)
+[![Discord](https://img.shields.io/discord/IAMIOT017?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/G43R8nnMTh)
 [![Solana](https://img.shields.io/badge/Solana-Program-14F195?logo=solana)](https://explorer.solana.com/address/FSFSmPKior2TJoEwMALubV5iMtSusyTXSN7tUBGnqRQp)
 
 [Website](https://generiba.ai) • [Prototype](https://earn.generiba.ai) • [Documentation](https://docs.generiba.ai) • [Pitch Deck](https://deck.generiba.ai) • [DAO](https://dao.generiba.ai) • [NTT Pitch](https://side.generiba.ai)
@@ -129,9 +129,9 @@ yarn dev
 
 ## 👥 Team
 
-**IAMIOT** - [@IAMIOT](https://github.com/IAMIOT)
+**IAMIOT** - [@IAMIOT](https://github.com/solitudesigns)
 
-**GeneriBa Milo** - [@Milo](https://github.com/Milo)
+**GeneriBa Milo** - [@Milo](https://github.com/generiba-milo)
 
 ---
 
